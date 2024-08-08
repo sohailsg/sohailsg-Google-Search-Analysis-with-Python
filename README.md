@@ -6,12 +6,20 @@ Google does not share the exact number of searches, but it’s estimated that 22
 We will be going through the following things:
 
 What is Pytrends?
+
 How to install Pytrends
+
 Connect to Google
+
 Build Payload
+
 Interest Over Time
+
 Historical Hourly Interest
+
 Interest by Region
+
 Top Charts
+
 Related Queries
 Keyword Suggestion
