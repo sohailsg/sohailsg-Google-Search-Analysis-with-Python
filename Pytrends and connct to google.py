@@ -1,4 +1,4 @@
-What is Pytrends?
+'''What is Pytrends?
 Pytrends is an unofficial Google trends API used in python. It helps to analyze and list out the most popular Google search results on a specific topic or a subject, based on different regions and languages.
 
 How to install Pytrends?
@@ -8,7 +8,7 @@ pip install pytrends
 Connect to Google
 Now, let’s get started with the task of analyzing the Google search trends by importing the required python libraries. First, we need to 
 import pandas to create a dataframe. Second, we need to connect to Google as we are requesting the Google trending topics, so for this, 
-we need to import the method TrendReq from pytrends.request library. Also, we will import matplotlib, to visualize the data.
+we need to import the method TrendReq from pytrends.request library. Also, we will import matplotlib, to visualize the data.'''
 
 import pandas as pd 
 from pytrends.request import TrendReq 
